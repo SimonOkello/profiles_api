@@ -26,7 +26,7 @@ SECRET_KEY = 'a^8-085=y42fpe806qlb0ev@rs6cfp=wial0k-v$z#5$wxesg_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['profilesapi.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
